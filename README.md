@@ -1,7 +1,7 @@
 # Created this Portfolio website using sanity.io and React Js
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://nicklaus-portfolio.netlify.app/" target="_blank">soumyajit.tech</a>
+  <a href="https://nicklaus-portfolio.netlify.app/" target="_blank">nicklaus-portfolio</a>
 </h2>
 <div align="center" display='flex' flexDirection='column'>
   <img alt="Demo" src="./Screenshot 2023-01-09 at 20.20.30.png" />
