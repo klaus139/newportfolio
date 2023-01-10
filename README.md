@@ -4,7 +4,11 @@
   <a href="https://nicklaus-portfolio.netlify.app/" target="_blank">soumyajit.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Screenshot 2023-01-09 at 20.20.30.png" />
+  
+  <img alt="Demo" src="./Screenshot 2023-01-09 at 20.16.46.png" />
+  
+  <img alt="Demo" src="./Screenshot 2023-01-09 at 20.21.44.png" />
 </div>
 
 <br/>
@@ -14,6 +18,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
+  [![forthebadge](https://forthebadge.com/images/badges/made-with-sanity.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
 ![GitHub Repo stars](https://img.shields.io/github/stars/klaus139/newportfolio?color=red&logo=github&style=for-the-badge) &nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/klaus139/newportfolio?color=red&logo=github&style=for-the-badge)
