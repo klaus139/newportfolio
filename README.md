@@ -25,19 +25,21 @@
 
 </center>
 
+## TL;DR
 
-# To run this project locally, you need to have node.js installed on your system.
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+
+## Built With
+
+My personal portfolio <a href="https://nicklaus-portfolio.app/" target="_blank">klaus-Tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+
+This project was built using these technologies.
+
+- React.js
+- Sanity.io
 
 
-# After installing the dependencies, type the following command to run the project locally
+## Features
 
-cd frontend_react 
-npm install
-npm start
-
-# to run the sanity studio locally, type the following command
-
-cd backend_sanity
-npm install
-npm run dev
+**📖 Multi-Page Layout**
 
